@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Uriel Reyes Garcia
+// Section: CSC1271
 
 #include <iostream>
 using namespace std;
